@@ -1,2 +1,2 @@
 # Leaflet
-Mapa hecho con Leaflet.
+Mapa hecho con HTML plano que utiliza Leaflet.
